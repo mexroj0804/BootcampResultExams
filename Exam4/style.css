@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-brand img{
+    margin-top: -22px;
+    margin-right: 70px;
+}
+
+.navbar-nav li{
+    margin-left: 40px;
+    margin-top: -45px;
+}
+
+.text-content p{
+    width: 50%;
+    margin: auto;
+    margin-top: -150px;
+    size: 22px;
+}
+
+.text-content h1{
+    font-size: 72px;
+}
+.text-content{
+    margin-top: 10px;
+}
+
+.container img{
+    margin-top: -20px;
+}
+.d-flex button{
+    width: 213px;
+    height: 56px;
+    margin-top: 40px;
+    background-color: black;
+    border-radius: 27px;
+}
